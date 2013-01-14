@@ -1,4 +1,22 @@
 Hello! 
 
 This is me experimenting and getting familiar with 
-python scripts concerning smtp
+python scripts concerning smtp :)
+
+How to invoke?
+
+python ScriptName GmailUsername GmailPassword
+
+
+gmail.py
+
+Sends mail.
+
+
+gmail_get.py
+
+Retreives the number and the total size of the mail in the inbox.
+
+
+
+Its pretty lame. I know.
